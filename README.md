@@ -1,0 +1,4 @@
+- Google Cloud Setup
+- next-auth/prisma-adapter
+- MongoDB Database
+- Prisma
